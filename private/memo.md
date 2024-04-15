@@ -1,37 +1,33 @@
 ```
-GK: M.Muller(33) J.Heekeren(26) [R]T.Goller(22) D.Bornkessel(17)
-DL: C.Calderon(29) N.Huggins(26) A.Eckstadt(18) [R]F.Muller(17) A.Martin(19) J.Mateo(18)
-DC: K.Schlotterbeck(29) M.Fein(18) T.Harwood-Bellis(25)
-DC: H.Matriciani(26) L.Greiml(25) 
-DR: J.Castrop(23)R J.Iglesias(28) K.Bonmann(18) D.Salkic(18) F.Mededjisso(18)
-DM: R.Schallenberg(28) P.Gros(35) C.Daum(18) B.Benko(16)
-CM: L.Tempelmann(28) J.Knight(21) J.Weir(25) K.Watjen(21) E.Bislimi(18)
-CM: I.Moriba(24) C.Eriksen(35) M.Bartusiak(17)
-AL: A.Ouedraogo(20) Reinier(25) G.Vidovic(21) M.Pimentel(19) R.de Wit(18) [R]O.Megeed(20) JP.N'Diaye(20) S.O.Haubrock(18) Y.Bahar(18)
-AR: G.Timm(18) A.Martin(27) Wesley(23) H.Bierhoff(19) [R]M.Nyandemoh(17)
-ST: S.Kalajdžić(29) L.Ajorque(33) K.Topp(21) [R]A.Simmelhack(21) L.Bond(18) C.Caffrey(18) E.De Carolis(18) M.Rubio(17)
+GK: L.Canizares(26) B.Leno(36) T.Karaca(19) T.Goller(23) J.Heekeren(27) [R]K.Lesko(18) D.Bornkessel(18)
+DL: **<WP>** L.Chambers(23) M.Sanchez(27) Y.Gerhardt(34) [R]F.Muller(18) J.Mateo(19)
+DC: M.Fein(19) K.Schlotterbeck(31) [R]C.Daum(19)
+DC: T.Harwood-Bellis(26) Youto(26) L.Greiml(26) 
+DR: J.Castrop(25) K.Bonmann(19) A.Gomis(20) D.Salkic(19) [R]F.Mededjisso(19)
+DM: R.Schallenberg(29) C.Baleba(24) [R]B.Benko(18)
+CM: L.Tempelmann(29) **<WP>** R.Kessels(21) [R] E.Bislimi(19)
+CM: A.Ouedraogo(21) I.Moriba(24) [R] M.Bartusiak(17)
+AL: I.Aliseda(28) Reinier(26) R.de Wit(19) [R] S.O.Haubrock(20) E.Beka(16)
+AR: B.Diaz(28) M.Pimentel(20) G.Timm(20) [R] T.Aguirre(19) H.Bierhoff(20) M.Nyandemoh(18)
+ST: S.Kalajdžić(30) K.Topp(22) F.Esposito(22) [R]E.De Carolis(19) C.Caffrey(20) M.Buch(17) D.Pitchford(21) I.Doyle-Hayes(20)
 ```
-## 次シーズン加入
-GK: Trapp 24歳spain  
-DL: ベテランジャーマン(DM兼)  
 
 ## 放出候補
 ### ほぼ確
 Boschilia  
-H.Tabakovic  
-D.J.Murkin(27)   
+C.Calderon(30)  
+A.Eckstadt(19)  
 Matriciani まだ出たがるなら
+J.Knight(22) J.Weir(26) K.Watjen(22)
+G.Vidovic(24)
+Wesley(23)
+O.Megeed(22)
+L.Bond(20)
+A.Simmelhack(22)
+J.Iglesias(29)
 
 ### 悩ましい
-M.Muller  
-(Martin, Andres)  
-N.Huggins(26)  
-A.Martin 若いので契約にもよる 同ポジに同世代多い  
-(Wesley) 若いので契約にもよる  
-Megeed 同上  
-N'Diaye 同上
 
 ## 手薄
-DM 他ポジション優先したいのが多く専門はSchallenだけ  
-CM Knight/Weirをどう判断するかMoriba/Tempel+Eriksen/Grosで回せなくもない(GrosをAMRからはがすAssanもCMよりにする)  
-AMR: 将来性はあるがTimm/Pimentelで一年いけるかどうか
+DL: 手薄というか弱点
+CM: Assan > Moriba > Tempel な状況、かなり手薄  
