@@ -22,5 +22,7 @@ F.Esposito
 ### 悩ましい
 
 ## 手薄
-DL: 手薄というか弱点
-CM: Assan > Moriba > Tempel な状況、かなり手薄  
+DM: Schallenbergを追い越す中堅/若手が出るか否か
+DR: Gomis,Bonmannの成長次第
+
+CM: Assan:Mane > Moriba:Timm:(Perrone)  
