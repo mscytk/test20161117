@@ -1,5 +1,5 @@
 ```
-GK: H.Erl(23) K.Lesko(24) M.Stevens-Roberts(24) [R] B.Schultz(21) C.White(23) E.Urrego(20) H.Bitterich(18)
+GK: H.Erl(24) V.Salvatore(17) M.Stevens-Roberts(24) [R] B.Schultz(21) C.White(23) E.Urrego(20) H.Bitterich(18)
 DL: V.Barda(19) D.Fujisawa(25) P.Stahl(20) [R] 
 DC: S.Wiblishauser(24) M.Fein(25) [R] L.Johanesson(18)
 DC: M.Gomez(23) [R] J.Ribeiro(16) Ozsavlu(17) A.Karimi(15)
