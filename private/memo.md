@@ -1,22 +1,20 @@
 ```
-GK: H.Erl(26) V.Salvatore(19) B.Schultz(23) [R] C.White(25) E.Urrego(22) N.Daut(17)
-DL: V.Barda(21) P.Stahl(23) D.Fujisawa(28) [R] 
-DC: S.Wiblishauser(26) M.Fein(28) [R] 
-DC: S.Zlatkovic(22) [R] ▼J.Ribeiro(18) A.Karimi(18)
-DR: F.Ozcan(20) E.Metin(19) ▼K.Bonmann(28) [R] P.Dam(17) A.Hyseni(16)
-DM: M.Yahi(20) [R]
-CM: L.Bork(23) G.Farrell(20) [R] ▼B.Hellborg(20) ▼M.Kanda(19)
-CM: B.Sturm(25) T.Klysner(21) [R] ▼K.Hassanain(19) D.Rassias(17) 
-AL: A.Ouedraogo(30) F.Berisha(21) F.Alter(23) [R] ▼C.Ozbek(21) S.Giovani(16)
-AC: M.Durand(25) S.Cvjetkovic(22) [R]  
-AR: M.Pimentel(28) J.Socrier(28) R.Assel(20) [R] ▼Y.Victoriano(20) ▼A.Gashi(19)
-ST: S.Sriwaree(26) J.Longelo(20) [R] ▼G.Shiba(18) ▼E.Tol
+GK: J.Parra(28) V.Salvatore(19) ▼B.Schultz(24) [R] ▼E.Urrego(23) ▼J.Miller(20) M.Rafiei(17)
+DL: V.Barda(22) P.Stahl(23) [R] K.Dukic(16)
+DC: S.Wiblishauser(27) M.Fein(29) [R] J.Romero(17) D.Frey(17) 
+DC: S.Zlatkovic(22) F.Schwenk(26) J.Ribeiro(19) [R] ▼A.Karimi(18)
+DR: F.Ozcan(21) E.Metin(20) ▼K.Bonmann(29) [R] ▼P.Dam(18) A.Hyseni(17)
+DM:  [R]
+CM: G.Farrell(21) L.Bork(24) [R] ▼B.Hellborg(21) H.Balkenhoff(18)
+CM: B.Sturm(26) T.Klysner(22) [R] ▼K.Hassanain(19) K.Yagi(16) 
+AL: F.Berisha(22) A.Ouedraogo(31) ▼F.Alter(24) [R] ▼C.Ozbek(22) ▼A.Ngatsono(18) B.Ozturk(18) S.Giovani(17)
+AC: M.Durand(26) S.Cvjetkovic(22) [R] J.Balde(19) H.Tekin(17)
+AR: M.Pimentel(29) R.Assel(21) J.Socrier(29) [R] Y.Victoriano(21) ▼A.Gashi(20)
+ST: J.Longelo(21) S.Sriwaree(27) [R] ▼G.Shiba(21) ▼E.Tol S.Aksu(17)
 ```
 
 ## 放出候補
 ### ほぼ確
-M.Yahi(20)
-C.White(25)
 
 ### 悩ましい
 J.Socrier(28)
